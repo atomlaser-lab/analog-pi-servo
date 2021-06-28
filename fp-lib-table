@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name pi-servo-board)(type KiCad)(uri ${KIPRJMOD}/pi-servo-board.pretty)(options "")(descr ""))
+)
