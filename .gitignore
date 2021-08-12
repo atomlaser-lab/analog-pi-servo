@@ -22,5 +22,5 @@ _autosave-*
 
 # Keep selected generated files
 !Generated
-CAM/
-CAM*
+#CAM/
+#CAM*
