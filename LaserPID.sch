@@ -1382,7 +1382,7 @@ F 0 "P1" H 1100 1850 50  0000 C CNN
 F 1 "POWER" V 1200 1650 50  0000 C CNN
 F 2 "TerminalBlock:TerminalBlock_bornier-3_P5.08mm" H 1100 1650 50  0001 C CNN
 F 3 "" H 1100 1650 50  0000 C CNN
-F 4 "732-2748-ND" H 1100 1650 50  0001 C CNN "Digikey Part Number"
+F 4 "2057-EBBA-03-C-SS-BU-ND" H 1100 1650 50  0001 C CNN "Digikey Part Number"
 	1    1100 1650
 	-1   0    0    -1  
 $EndComp
