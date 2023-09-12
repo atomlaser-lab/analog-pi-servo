@@ -1,6 +1,8 @@
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/
 # From github's gitignore repo
 
+LaserPID-backups/
+
 # Temporary files
 *.000
 *.bak
